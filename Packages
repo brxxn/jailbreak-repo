@@ -1,0 +1,12 @@
+Package: io.brxxn.no-thx-analytics
+Name: no-thx-analytics
+Depends: mobilesubstrate
+Version: 1.0.0-2
+Size: 2714
+MD5sum: b886294acd7d05e7598ff78220a1deb4
+Architecture: iphoneos-arm
+Description: disables SpringBoard analytics - iOS 12 compatible
+Maintainer: brxxn#1337
+Author: brxxn#1337
+Section: Tweaks
+Filename: ./debs/io.brxxn.no-thx-analytics_1.0.0-2_iphoneos-arm.deb
