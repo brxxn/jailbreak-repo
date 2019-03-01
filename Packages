@@ -10,3 +10,16 @@ Maintainer: brxxn#1337
 Author: brxxn#1337
 Section: Tweaks
 Filename: ./debs/io.brxxn.no-thx-analytics_1.0.0-2_iphoneos-arm.deb
+
+Package: io.brxxn.horizontal-home
+Name: horizontal-home
+Depends: mobilesubstrate
+Size: 2642
+MD5sum: a5fb55d81030b531f9f27807f80316c1
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: allows horizontal rotation on home screen
+Maintainer: brxxn#1337
+Author: brxxn#1337
+Section: Tweaks
+Filename: ./debs/io.brxxn.horizontal-home_1.0.0-1_iphoneos-arm.deb
