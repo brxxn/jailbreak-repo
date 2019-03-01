@@ -1,9 +1,9 @@
 Package: io.brxxn.no-thx-analytics
 Name: no-thx-analytics
 Depends: mobilesubstrate
-Version: 1.0.0-2
 Size: 2714
 MD5sum: b886294acd7d05e7598ff78220a1deb4
+Version: 1.0.0-2
 Architecture: iphoneos-arm
 Description: disables SpringBoard analytics - iOS 12 compatible
 Maintainer: brxxn#1337
@@ -16,7 +16,7 @@ Name: horizontal-home
 Depends: mobilesubstrate
 Size: 2642
 MD5sum: a5fb55d81030b531f9f27807f80316c1
-Version: 1.0.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Description: allows horizontal rotation on home screen
 Maintainer: brxxn#1337
