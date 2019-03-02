@@ -2,7 +2,6 @@ Package: io.brxxn.no-thx-analytics
 Version: 1.0.0-2
 Architecture: iphoneos-arm
 Maintainer: brxxn
-Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/io.brxxn.no-thx-analytics_1.0.0-2_iphoneos-arm.deb
 Size: 2714
@@ -15,8 +14,7 @@ Name: no-thx-analytics
 Package: io.brxxn.horizontal-home
 Version: 1.0.0-2
 Architecture: iphoneos-arm
-Maintainer: brxxn#1337
-Installed-Size: 120
+Maintainer: brxxn#1337\
 Depends: mobilesubstrate
 Filename: ./debs/io.brxxn.horizontal-home_1.0.0-2_iphoneos-arm.deb
 Size: 2798
