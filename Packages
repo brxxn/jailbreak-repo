@@ -1,25 +1,31 @@
 Package: io.brxxn.no-thx-analytics
-Name: no-thx-analytics
-Depends: mobilesubstrate
-Size: 2714
-MD5sum: b886294acd7d05e7598ff78220a1deb4
 Version: 1.0.0-2
 Architecture: iphoneos-arm
-Description: disables SpringBoard analytics - iOS 12 compatible
-Maintainer: brxxn#1337
-Author: brxxn#1337
-Section: Tweaks
+Maintainer: brxxn
+Installed-Size: 120
+Depends: mobilesubstrate
 Filename: ./debs/io.brxxn.no-thx-analytics_1.0.0-2_iphoneos-arm.deb
+Size: 2714
+MD5sum: b886294acd7d05e7598ff78220a1deb4
+SHA1: f7cb9ea6f2dcc6d3f0c93b38c9b671812de690b8
+SHA256: da7a21e0bcfe12db1d87668128bce16d65e333b12b1bd0998c509dc9427c93a0
+Section: Tweaks
+Description: disables SpringBoard analytics
+Author: brxxn
+Name: no-thx-analytics
 
 Package: io.brxxn.horizontal-home
-Name: horizontal-home
-Depends: mobilesubstrate
-Size: 2642
-MD5sum: a5fb55d81030b531f9f27807f80316c1
-Version: 1.0.0-1
+Version: 1.0.0-2
 Architecture: iphoneos-arm
-Description: allows horizontal rotation on home screen
 Maintainer: brxxn#1337
-Author: brxxn#1337
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/io.brxxn.horizontal-home_1.0.0-2_iphoneos-arm.deb
+Size: 2798
+MD5sum: 5e3985ace2bcd0b46c0a605476a7e273
+SHA1: 04106883c22f631eea27b2dada423157d1735aec
+SHA256: 386ce35bd3e10521b1d7f247c58a6af9bc65d7146fd2e7ad38d77602278e44f6
 Section: Tweaks
-Filename: ./debs/io.brxxn.horizontal-home_1.0.0-1_iphoneos-arm.deb
+Description: allows horizontal rotation on home screen
+Author: brxxn#1337
+Name: horizontal-home
